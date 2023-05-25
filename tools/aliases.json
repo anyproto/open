@@ -1,0 +1,40 @@
+{
+  "aliases": {
+    "MIT": [
+      "Bouncy Castle Licence"
+    ],
+    "Apache-1.0": [
+      "Apache"
+    ],
+    "Apache-2.0": [
+      "Apache License v2",
+      "Apache 2.0"
+    ],
+    "BSD-1-Clause": [
+      "BSD"
+    ],
+    "BSD-3-Clause": [
+      "BSD License 3"
+    ],
+
+    "ICU": [
+      "ICU License",
+      "Unicode/ICU License"
+    ],
+    "GPL-2.0-with-classpath-exception": [
+      "CDDL + GPLv2 with classpath exception"
+    ],
+    "CDDL-1.0": [
+      "Common Development and Distribution License 1.0"
+    ],
+    "EPL-1.0": [
+      "Eclipse Public License 1.0"
+    ],
+    "BSD-2-Clause": [
+      "BSD 2-Clause License"
+    ],
+    "CC0-1.0": [
+      "CC0 1.0 Universal"
+    ]
+  }
+}

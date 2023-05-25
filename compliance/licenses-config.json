@@ -31,5 +31,17 @@
     "Unlicense",
     "WTFPL",
     "Zlib"
+  ],
+  "forbiddenLicenses": [
+    "UNKNOWN",
+    "AGPL-1.0-or-later",
+    "AGPL-3.0-only",
+    "AGPL-3.0-or-later",
+    "GPL-1.0-only",
+    "GPL-1.0-or-later",
+    "GPL-2.0-only",
+    "GPL-2.0-or-later",
+    "GPL-3.0-only",
+    "GPL-3.0-or-later"
   ]
 }

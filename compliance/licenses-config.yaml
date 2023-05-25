@@ -1,0 +1,28 @@
+allowedLicenses:
+- Android Software Development Kit License
+- Apache-2.0
+- Artistic-2.0
+- BSD-2-Clause
+- BSD-3-Clause
+- CC0-1.0
+- FTL
+- ISC
+- MIT
+- MPL-2.0
+- OFL-1.1
+- Ruby
+- Unicode-TOU
+- Unlicense
+- WTFPL
+- Zlib
+forbiddenLicenses:
+- unknown
+- AGPL-1.0-or-later
+- AGPL-3.0-only
+- AGPL-3.0-or-later
+- GPL-1.0-only
+- GPL-1.0-or-later
+- GPL-2.0-only
+- GPL-2.0-or-later
+- GPL-3.0-only
+- GPL-3.0-or-later

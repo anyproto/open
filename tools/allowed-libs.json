@@ -1,0 +1,57 @@
+{
+  "libs": {
+    "android": [
+      {
+        "name": "PickiT",
+        "why": "https://github.com/HBiSoft/PickiT/pull/59"
+      },
+      {
+        "name": "android-mw",
+        "why": "Internal library"
+      }
+    ],
+    "golang": [
+      {
+        "name": "github.com/anyproto/any-sync",
+        "why": "Internal library"
+      },
+      {
+        "name": "github.com/anyproto/go-chash",
+        "why": "Internal library"
+      },
+      {
+        "name": "github.com/AndreasBriese/bbloom",
+        "why": "https://github.com/AndreasBriese/bbloom/blob/master/LICENSE"
+      },
+      {
+        "name": "github.com/decred/dcrd/dcrec/secp256k1/v4",
+        "why": "https://github.com/decred/dcrd/blob/master/LICENSE"
+      },
+      {
+        "name": "github.com/golang/freetype",
+        "why": "https://github.com/golang/freetype/blob/master/LICENSE"
+      },
+      {
+        "name": "github.com/ipfs/bbloom",
+        "why": "https://github.com/ipfs/bbloom/blob/master/LICENSE"
+      },
+      {
+        "name": "github.com/jackpal/go-nat-pmp",
+        "why": "https://github.com/jackpal/go-nat-pmp/blob/master/LICENSE"
+      },
+      {
+        "name": "github.com/libp2p/go-reuseport",
+        "why": "https://github.com/libp2p/go-reuseport/blob/master/LICENSE"
+      },
+      {
+        "name": "github.com/logrusorgru/aurora",
+        "why": "https://github.com/logrusorgru/aurora/blob/master/LICENSE"
+      },
+      {
+        "name": "github.com/multiformats/go-base36",
+        "why": "https://github.com/multiformats/go-base36/blob/master/LICENSE.md"
+      }
+    ],
+    "ios": []
+  }
+}
