@@ -8,6 +8,10 @@
       {
         "name": "anytype-heart-android",
         "why": "Internal library"
+      },
+      {
+        "name": "com.github.PLPsiSoft:AndroidAppUpdater",
+        "why": "https://github.com/hummatli/AndroidAppUpdater/blob/master/LICENSE"
       }
     ],
     "golang": [
