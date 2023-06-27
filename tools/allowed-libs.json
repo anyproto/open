@@ -10,7 +10,7 @@
         "why": "Internal library"
       },
       {
-        "name": "com.github.PLPsiSoft:AndroidAppUpdater",
+        "name": "AndroidAppUpdater",
         "why": "https://github.com/hummatli/AndroidAppUpdater/blob/master/LICENSE"
       }
     ],
