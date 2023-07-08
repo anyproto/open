@@ -11,9 +11,9 @@ redistribute the Software, but only
 If Licensee makes available a copy of the Software to any third party, 
 the Software must be subject to the terms of this license only, and Licensee 
 must provide a copy of this license to that third party. 
-If Licensee makes changes or additions to the Software, Licensee may license those 
-changes or additions under terms of your choice, but Licensee cannot change 
-the license for the Software.
+If Licensee makes changes or additions to the Software, Licensee may license 
+those changes or additions under terms of your choice, but Licensee cannot 
+change the license for the Software.
 
 These terms do not allow Licensee to sublicense or transfer any of Licensee’s 
 rights to anyone else. These terms do not imply any other licenses not 
