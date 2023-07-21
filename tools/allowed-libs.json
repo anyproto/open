@@ -54,6 +54,10 @@
       {
         "name": "github.com/multiformats/go-base36",
         "why": "https://github.com/multiformats/go-base36/blob/master/LICENSE.md"
+      },
+      {
+        "name": "github.com/ipfs/go-verifcid",
+        "why": "https://github.com/ipfs/go-verifcid/blob/master/LICENSE-MIT"
       }
     ],
     "ios": []
