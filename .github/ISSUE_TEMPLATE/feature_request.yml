@@ -5,43 +5,35 @@ labels: ["enhancement", "triage"]
 body:
 - type: checkboxes
   attributes:
-    label: Have you read [contributing giude](../../docs/CONTRIBUTING.md)?
+    label: Have you read a contributing guide?
+    description: Please read [CONTRINUTING.md](../../docs/CONTRIBUTING.md) before proceeding. Check if there are existing [feature requests](https://community.anytype.io/c/feature-requests/l/latest?board=default) and upvote them instead. Follow [this article](https://doc.anytype.io/d/community/community-forum) if you don't know how to join the community.
     options:
     - label: I have read CONTRIBUTING.md
       required: true
-- type: checkboxes
-  attributes:
-    label: Did you check existing [feature requests](https://community.anytype.io/c/feature-requests/l/latest?board=default)?
-    description: Check [this article](https://doc.anytype.io/d/community/community-forum) if you don't know how to join the community
-    options:
     - label: I have searched the existing requests and didn't find any that were similar
       required: true
-- type: checkboxes
-  attributes:
-    label: Have you considered creating a pull request instead of a feature request?
-    options:
-    - label: Yes, and I want to proceed with a feature request
+    - label: I have considered creating a pull request instead and want to proceed
       required: true
 - type: textarea
-    id: feature-description
-    attributes:
-      label: Clear and concise description of the problem
-    validations:
-      required: true
-  - type: textarea
-    id: suggested-solution
-    attributes:
-      label: Suggested solution
-    validations:
-      required: true
-  - type: textarea
-    id: alternative
-    attributes:
-      label: Alternative
-      description: Clear and concise description of any alternative solutions or features you've considered.
-  - type: textarea
-    id: additional-context
-    attributes:
-      label: Additional context
-      description: Any other context or screenshots about the feature request here.
+  id: feature-description
+  attributes:
+    label: Clear and concise description of the problem
+  validations:
+    required: true
+- type: textarea
+  id: suggested-solution
+  attributes:
+    label: Suggested solution
+  validations:
+    required: true
+- type: textarea
+  id: alternative
+  attributes:
+    label: Alternative
+    description: Clear and concise description of any alternative solutions or features you've considered.
+- type: textarea
+  id: additional-context
+  attributes:
+    label: Additional context
+    description: Any other context or screenshots about the feature request here.
 
