@@ -1,6 +1,5 @@
 name: Feature request
 description: Suggest an idea
-title: ""
 labels: ["enhancement", "triage"]
 body:
 - type: checkboxes

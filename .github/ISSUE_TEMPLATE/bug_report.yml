@@ -1,6 +1,5 @@
 name: Bug report
 description: File a bug
-title: ""
 labels: ["bug", "triage"]
 body:
 - type: checkboxes
