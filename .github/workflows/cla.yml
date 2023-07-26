@@ -43,4 +43,4 @@ jobs:
           remote-repository-name: "cla"
           branch: "main"
           path-to-signatures: "signatures.json"
-#           allowlist: ${{ env.members }}
+          allowlist: ${{ env.members }}
