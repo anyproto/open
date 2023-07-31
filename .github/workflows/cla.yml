@@ -37,8 +37,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PERSONAL_ACCESS_TOKEN: ${{ secrets.ANY_CLA_TOKEN }}
         with:
-          custom-notsigned-prcomment: '<br/>Thank you for your pull request, we really appreciate it!<br/><br/>Please sign our [Contributor License Agreement](https://github.com/anyproto/open/blob/main/templates/CLA.md) before we can accept your contribution.<br/>You can sign the CLA by simply commenting on this pull request with the following text.<br/>'
-          path-to-document: "https://github.com/anyproto/open/blob/main/templates/CLA.md"
+          custom-notsigned-prcomment: '<br/>Thank you for your pull request, we really appreciate it!<br/><br/>Please sign our [Contributor License Agreement](https://github.com/anyproto/.github/blob/main/docs/CLA.md) before we can accept your contribution.<br/>You can sign the CLA by simply commenting on this pull request with the following text.<br/>'
+          path-to-document: "https://github.com/anyproto/.github/blob/main/docs/CLA.md"
           remote-organization-name: "anyproto"
           remote-repository-name: "cla"
           branch: "main"
