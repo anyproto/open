@@ -28,7 +28,7 @@ jobs:
       - name: Extract Member Logins
         run: |
           echo '${{ steps.members.outputs.data }}' | jq -r '.[].login' | tr '\n' ',' > members.txt
-          echo "dependabot[bot],allcontributors[bot]" >> members.txt
+          echo "dependabot[bot],allcontributors[bot],any-bot[bot]" >> members.txt
           echo "members=$(cat members.txt)" >> "$GITHUB_ENV"
           
       - name: CLA Assistant
