@@ -58,6 +58,10 @@
       {
         "name": "github.com/ipfs/go-verifcid",
         "why": "https://github.com/ipfs/go-verifcid/blob/master/LICENSE-MIT"
+      },
+      {
+        "name": "github.com/jmespath/go-jmespath",
+        "why": "https://github.com/jmespath/go-jmespath/blob/master/LICENSE"
       }
     ],
     "ios": []
