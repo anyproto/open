@@ -62,6 +62,14 @@
       {
         "name": "github.com/jmespath/go-jmespath",
         "why": "https://github.com/jmespath/go-jmespath/blob/master/LICENSE"
+      },
+      {
+        "name": "github.com/btcsuite/btcd",
+        "why": "https://github.com/btcsuite/btcd/blob/master/LICENSE"
+      },
+      {
+        "name": "github.com/btcsuite/btcutil",
+        "why": "https://github.com/btcsuite/btcd/blob/master/btcutil/LICENSE"
       }
     ],
     "ios": []
