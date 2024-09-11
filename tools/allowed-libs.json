@@ -74,6 +74,14 @@
       {
         "name": "github.com/btcsuite/btcd/chaincfg/chainhash",
         "why": "https://github.com/btcsuite/btcd/blob/master/btcutil/LICENSE"
+      },
+      {
+        "name": "modernc.org/mathutil",
+        "why": "https://github.com/btcsuite/btcd/blob/master/btcutil/LICENSE Looks like BSD-3"
+      },
+      {
+        "name": "zombiezen.com/go/sqlite",
+        "why": "https://github.com/zombiezen/go-sqlite/blob/main/LICENSE Looks like BSD-2/MIT"
       }
     ],
     "ios": []
