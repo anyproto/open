@@ -68,6 +68,15 @@
         "why": "https://github.com/btcsuite/btcd/blob/master/LICENSE"
       },
       {
+        "name": "github.com/btcsuite/btcd/btcec/v2",
+        "why": "https://github.com/btcsuite/btcd/blob/master/LICENSE"
+      },
+      {
+        "name": "github.com/btcsuite/btcd/btcutil",
+        "why": "https://github.com/btcsuite/btcd/blob/master/btcutil/LICENSE"
+      },
+
+      {
         "name": "github.com/btcsuite/btcutil",
         "why": "https://github.com/btcsuite/btcd/blob/master/btcutil/LICENSE"
       },
