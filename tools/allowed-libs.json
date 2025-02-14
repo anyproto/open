@@ -95,6 +95,10 @@
       {
         "name": "github.com/hashicorp/yamux",
         "why": "https://github.com/hashicorp/yamux/blob/master/LICENSE"
+      },
+      {
+        "name": "github.com/anyproto/anytype-heart",
+        "why": "https://github.com/anyproto/anytype-heart/blob/main/LICENSE.md"
       }
     ],
     "ios": []
