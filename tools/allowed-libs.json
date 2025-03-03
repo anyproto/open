@@ -75,7 +75,6 @@
         "name": "github.com/btcsuite/btcd/btcutil",
         "why": "https://github.com/btcsuite/btcd/blob/master/btcutil/LICENSE"
       },
-
       {
         "name": "github.com/btcsuite/btcutil",
         "why": "https://github.com/btcsuite/btcd/blob/master/btcutil/LICENSE"
@@ -91,6 +90,10 @@
       {
         "name": "zombiezen.com/go/sqlite",
         "why": "https://github.com/zombiezen/go-sqlite/blob/main/LICENSE Looks like BSD-2/MIT"
+      },
+      {
+        "name": "github.com/anyproto/go-sqlite",
+        "why": "https://github.com/anyproto/go-sqlite/blob/main/LICENSE - a fork of zombiezen.com/go/sqlite"
       },
       {
         "name": "github.com/hashicorp/yamux",
