@@ -106,7 +106,7 @@
     ],
     "ios": [
       {
-        "name": "github.com/BeauNouvelle/ShimmerSwift",
+        "name": "ShimmerSwift",
         "why": "https://github.com/BeauNouvelle/ShimmerSwift/blob/master/LICENSE"
       }
     ]
