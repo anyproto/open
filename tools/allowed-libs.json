@@ -104,6 +104,11 @@
         "why": "https://github.com/anyproto/anytype-heart/blob/main/LICENSE.md"
       }
     ],
-    "ios": []
+    "ios": [
+      {
+        "name": "github.com/BeauNouvelle/ShimmerSwift",
+        "why": "https://github.com/BeauNouvelle/ShimmerSwift/blob/master/LICENSE"
+      }
+    ]
   }
 }
