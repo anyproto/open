@@ -29,8 +29,6 @@ jobs:
         run: |
           echo '${{ steps.members.outputs.data }}' | jq -r '.[].login' | tr '\n' ',' > members.txt
           echo "dependabot[bot],allcontributors[bot],any-bot[bot],anyprotoautomator,dragosrotaru" >> members.txt
-          # tmp added m.iudin
-          echo "fat-fellow" >> members.txt
           echo "members=$(cat members.txt)" >> "$GITHUB_ENV"
           
       - name: CLA Assistant
