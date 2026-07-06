@@ -20,8 +20,20 @@
         "why": "Internal library"
       },
       {
+        "name": "github.com/anyproto/any-sync-sdk",
+        "why": "Internal library"
+      },
+      {
         "name": "github.com/anyproto/go-chash",
         "why": "Internal library"
+      },
+      {
+        "name": "github.com/petar/GoLLRB",
+        "why": "https://github.com/petar/GoLLRB/blob/master/LICENSE"
+      },
+      {
+        "name": "github.com/whyrusleeping/cbor",
+        "why": "https://github.com/whyrusleeping/cbor/blob/master/LICENSE"
       },
       {
         "name": "github.com/AndreasBriese/bbloom",
