@@ -114,6 +114,10 @@
       {
         "name": "github.com/anyproto/anytype-heart",
         "why": "https://github.com/anyproto/anytype-heart/blob/main/LICENSE.md"
+      },
+      {
+        "name": "github.com/coder/websocket",
+        "why": "https://github.com/coder/websocket/blob/master/LICENSE.txt"
       }
     ],
     "ios": [
